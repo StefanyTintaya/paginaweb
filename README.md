@@ -1,1 +1,1 @@
-# StefanyTintaya/paginaweb
+# StefanyTintaya/proyecto/proyecto
