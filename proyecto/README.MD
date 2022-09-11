@@ -1,1 +1,0 @@
-#stefanytintaya/proyecto
